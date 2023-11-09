@@ -64,6 +64,11 @@ typings/
 package-lock.json
 yarn.lock
 
+# macOS specific files
 .DS_Store
+
+# Visual Studio Code specific files
 .vscode
-*.xslx
+
+# Excel files
+*.xlsx
